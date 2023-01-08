@@ -14,3 +14,5 @@ Ich zachowania warunkują następujące reguły:
 * W zmiennej "slowdown" deklarujemy długość trwania rundy.
 
 Symulacja gry powstała przy pomocy MatLaba R2017a.
+### Uruchomienie
+W celu uruchomienia należy pobrać pliki life.m wraz z print_board.m, umieścić je w tym samym katalogu oraz przy pomocy MatLaba bądź Octave'a uruchomić plik life.m.
